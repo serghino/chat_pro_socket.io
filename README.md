@@ -1,9 +1,8 @@
-# Notas:
+# Notes:
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
-
-Recuerden que deben de reconstruir los módulos de node con el comando
+This is a server Express using socket.io to create a chat pro.
 
 ```
-npm install
+1. Front-End: Html5, Css3, Jquery.
+2. Backend: ExpressJS, Socket.io. 
 ```
